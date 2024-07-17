@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=+lets+Transform+Visions+into+;+Reality👨‍💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=+lets+Transform+Visions+into+;Reality👨‍💻" alt="Typing SVG">
 </p>
 
 
