@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&lines=+lets+Transform+Visions+into+;Reality👨‍💻" alt="Typing SVG">
 </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/D-hanush/D-hanush/blob/main/pc.gif">
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Linux, Sklearn, Pandas, DSA**
 
